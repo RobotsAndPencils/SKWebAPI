@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SKCore",
+        "repositoryURL": "https://github.com/RobotsAndPencils/SKCore",
+        "state": {
+          "branch": "add-user-profile-status",
+          "revision": "75b64495ac169ef575c7e1bed75c7cbd489cd297",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
